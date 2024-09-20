@@ -1,0 +1,1 @@
+primeiro exercicio usando o Git 
